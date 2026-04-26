@@ -1,9 +1,5 @@
-# Akhil Adarsh Suryapagula
-
-Senior Platform Engineer. 8 years AWS. Led a 13-engineer SRE team on HIPAA-regulated infrastructure at Baxter International.
 
 ---
-
 ## Projects
 
 ### [devsecops-k8s-platform](https://github.com/akhiladarsh/devsecops-k8s-platform)
